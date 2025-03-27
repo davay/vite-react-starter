@@ -6,3 +6,4 @@ My convenient starting point, it's almost identical to the defaults from doing a
 - Sets up `@` alias
 - Cleans up default css
 - Removed default assets
+- Adds Lucide-React for icons
